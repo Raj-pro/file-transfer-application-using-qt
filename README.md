@@ -14,7 +14,8 @@ This project is a C++ File Transfer Application built using the Qt framework. It
 - **Framework:** Qt (for GUI and networking)
 
 ## Demo
-![Application Screenshot]([assets/screenshot.png](https://github.com/Raj-pro/file-transfer-application-using-qt/blob/main/image.png))
+![Application Screenshot](https://github.com/Raj-pro/file-transfer-application-using-qt/raw/main/image.png)
+
 
 ## Installation
 
